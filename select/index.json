@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ガンバッテンダー",
+  "base_artist": "iLiFE!",
+  "createdAt": "2026-03-24T14:43:45.922662Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ガンバッテンダー",
+      "artist": "iLiFE!",
+      "has_synced": false,
+      "path": "select/pl_01_ガンバッテンダー_iLiFE!.txt"
+    }
+  ]
+}
